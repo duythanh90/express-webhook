@@ -1,0 +1,17 @@
+{
+  "name": "express-webhook",
+  "version": "1.0.0",
+  "description": "express webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ISC"
+  ],
+  "author": "ISC",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
